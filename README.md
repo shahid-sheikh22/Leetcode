@@ -30,6 +30,7 @@
 ## String
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/shahid-sheikh22/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/shahid-sheikh22/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shahid-sheikh22/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/shahid-sheikh22/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -58,4 +59,8 @@
 |  |
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/shahid-sheikh22/Leetcode/tree/master/0354-russian-doll-envelopes) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/shahid-sheikh22/Leetcode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
