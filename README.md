@@ -14,6 +14,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/shahid-sheikh22/Leetcode/tree/master/0075-sort-colors) |
 | [0354-russian-doll-envelopes](https://github.com/shahid-sheikh22/Leetcode/tree/master/0354-russian-doll-envelopes) |
+| [0414-third-maximum-number](https://github.com/shahid-sheikh22/Leetcode/tree/master/0414-third-maximum-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/shahid-sheikh22/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/shahid-sheikh22/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shahid-sheikh22/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -27,6 +28,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/shahid-sheikh22/Leetcode/tree/master/0075-sort-colors) |
 | [0354-russian-doll-envelopes](https://github.com/shahid-sheikh22/Leetcode/tree/master/0354-russian-doll-envelopes) |
+| [0414-third-maximum-number](https://github.com/shahid-sheikh22/Leetcode/tree/master/0414-third-maximum-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/shahid-sheikh22/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3321-type-of-triangle](https://github.com/shahid-sheikh22/Leetcode/tree/master/3321-type-of-triangle) |
 ## String
