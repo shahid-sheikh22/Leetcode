@@ -17,6 +17,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/shahid-sheikh22/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/shahid-sheikh22/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shahid-sheikh22/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3321-type-of-triangle](https://github.com/shahid-sheikh22/Leetcode/tree/master/3321-type-of-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [0075-sort-colors](https://github.com/shahid-sheikh22/Leetcode/tree/master/0075-sort-colors) |
 | [0354-russian-doll-envelopes](https://github.com/shahid-sheikh22/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [2215-finding-3-digit-even-numbers](https://github.com/shahid-sheikh22/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [3321-type-of-triangle](https://github.com/shahid-sheikh22/Leetcode/tree/master/3321-type-of-triangle) |
 ## String
 |  |
 | ------- |
@@ -47,6 +49,7 @@
 ## Math
 |  |
 | ------- |
+| [3321-type-of-triangle](https://github.com/shahid-sheikh22/Leetcode/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/shahid-sheikh22/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Counting
 |  |
