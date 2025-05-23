@@ -4,6 +4,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/shahid-sheikh22/Leetcode/tree/master/0062-unique-paths) |
 | [0354-russian-doll-envelopes](https://github.com/shahid-sheikh22/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/shahid-sheikh22/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/shahid-sheikh22/Leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
@@ -76,6 +77,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/shahid-sheikh22/Leetcode/tree/master/0062-unique-paths) |
 | [0828-chalkboard-xor-game](https://github.com/shahid-sheikh22/Leetcode/tree/master/0828-chalkboard-xor-game) |
 | [3321-type-of-triangle](https://github.com/shahid-sheikh22/Leetcode/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/shahid-sheikh22/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -144,4 +146,8 @@
 |  |
 | ------- |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/shahid-sheikh22/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/shahid-sheikh22/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
