@@ -23,6 +23,7 @@
 | [0500-keyboard-row](https://github.com/shahid-sheikh22/Leetcode/tree/master/0500-keyboard-row) |
 | [0609-find-duplicate-file-in-system](https://github.com/shahid-sheikh22/Leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0828-chalkboard-xor-game](https://github.com/shahid-sheikh22/Leetcode/tree/master/0828-chalkboard-xor-game) |
+| [1022-unique-paths-iii](https://github.com/shahid-sheikh22/Leetcode/tree/master/1022-unique-paths-iii) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/shahid-sheikh22/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/shahid-sheikh22/Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/shahid-sheikh22/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
@@ -118,11 +119,13 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/shahid-sheikh22/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0463-island-perimeter](https://github.com/shahid-sheikh22/Leetcode/tree/master/0463-island-perimeter) |
+| [1022-unique-paths-iii](https://github.com/shahid-sheikh22/Leetcode/tree/master/1022-unique-paths-iii) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/shahid-sheikh22/Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0828-chalkboard-xor-game](https://github.com/shahid-sheikh22/Leetcode/tree/master/0828-chalkboard-xor-game) |
+| [1022-unique-paths-iii](https://github.com/shahid-sheikh22/Leetcode/tree/master/1022-unique-paths-iii) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/shahid-sheikh22/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/shahid-sheikh22/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Brainteaser
@@ -141,6 +144,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [1022-unique-paths-iii](https://github.com/shahid-sheikh22/Leetcode/tree/master/1022-unique-paths-iii) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/shahid-sheikh22/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 ## Bitmask
 |  |
