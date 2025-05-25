@@ -52,6 +52,7 @@
 ## String
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/shahid-sheikh22/Leetcode/tree/master/0394-decode-string) |
 | [0459-repeated-substring-pattern](https://github.com/shahid-sheikh22/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/shahid-sheikh22/Leetcode/tree/master/0500-keyboard-row) |
 | [0609-find-duplicate-file-in-system](https://github.com/shahid-sheikh22/Leetcode/tree/master/0609-find-duplicate-file-in-system) |
@@ -157,4 +158,12 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/shahid-sheikh22/Leetcode/tree/master/0062-unique-paths) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/shahid-sheikh22/Leetcode/tree/master/0394-decode-string) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/shahid-sheikh22/Leetcode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
