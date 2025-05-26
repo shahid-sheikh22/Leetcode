@@ -58,6 +58,7 @@
 | [0500-keyboard-row](https://github.com/shahid-sheikh22/Leetcode/tree/master/0500-keyboard-row) |
 | [0609-find-duplicate-file-in-system](https://github.com/shahid-sheikh22/Leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0742-to-lower-case](https://github.com/shahid-sheikh22/Leetcode/tree/master/0742-to-lower-case) |
+| [0781-basic-calculator-iv](https://github.com/shahid-sheikh22/Leetcode/tree/master/0781-basic-calculator-iv) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/shahid-sheikh22/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shahid-sheikh22/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/shahid-sheikh22/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -78,6 +79,7 @@
 | [0073-set-matrix-zeroes](https://github.com/shahid-sheikh22/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0500-keyboard-row](https://github.com/shahid-sheikh22/Leetcode/tree/master/0500-keyboard-row) |
 | [0609-find-duplicate-file-in-system](https://github.com/shahid-sheikh22/Leetcode/tree/master/0609-find-duplicate-file-in-system) |
+| [0781-basic-calculator-iv](https://github.com/shahid-sheikh22/Leetcode/tree/master/0781-basic-calculator-iv) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/shahid-sheikh22/Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [2215-finding-3-digit-even-numbers](https://github.com/shahid-sheikh22/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shahid-sheikh22/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -86,6 +88,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/shahid-sheikh22/Leetcode/tree/master/0062-unique-paths) |
+| [0781-basic-calculator-iv](https://github.com/shahid-sheikh22/Leetcode/tree/master/0781-basic-calculator-iv) |
 | [0828-chalkboard-xor-game](https://github.com/shahid-sheikh22/Leetcode/tree/master/0828-chalkboard-xor-game) |
 | [3321-type-of-triangle](https://github.com/shahid-sheikh22/Leetcode/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/shahid-sheikh22/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -166,8 +169,10 @@
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/shahid-sheikh22/Leetcode/tree/master/0394-decode-string) |
+| [0781-basic-calculator-iv](https://github.com/shahid-sheikh22/Leetcode/tree/master/0781-basic-calculator-iv) |
 ## Recursion
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/shahid-sheikh22/Leetcode/tree/master/0394-decode-string) |
+| [0781-basic-calculator-iv](https://github.com/shahid-sheikh22/Leetcode/tree/master/0781-basic-calculator-iv) |
 <!---LeetCode Topics End-->
