@@ -6,6 +6,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/shahid-sheikh22/Leetcode/tree/master/0062-unique-paths) |
 | [0354-russian-doll-envelopes](https://github.com/shahid-sheikh22/Leetcode/tree/master/0354-russian-doll-envelopes) |
+| [0930-all-possible-full-binary-trees](https://github.com/shahid-sheikh22/Leetcode/tree/master/0930-all-possible-full-binary-trees) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/shahid-sheikh22/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/shahid-sheikh22/Leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/shahid-sheikh22/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -162,6 +163,7 @@
 ## Tree
 |  |
 | ------- |
+| [0930-all-possible-full-binary-trees](https://github.com/shahid-sheikh22/Leetcode/tree/master/0930-all-possible-full-binary-trees) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/shahid-sheikh22/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Combinatorics
 |  |
@@ -177,4 +179,13 @@
 | ------- |
 | [0394-decode-string](https://github.com/shahid-sheikh22/Leetcode/tree/master/0394-decode-string) |
 | [0781-basic-calculator-iv](https://github.com/shahid-sheikh22/Leetcode/tree/master/0781-basic-calculator-iv) |
+| [0930-all-possible-full-binary-trees](https://github.com/shahid-sheikh22/Leetcode/tree/master/0930-all-possible-full-binary-trees) |
+## Memoization
+|  |
+| ------- |
+| [0930-all-possible-full-binary-trees](https://github.com/shahid-sheikh22/Leetcode/tree/master/0930-all-possible-full-binary-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0930-all-possible-full-binary-trees](https://github.com/shahid-sheikh22/Leetcode/tree/master/0930-all-possible-full-binary-trees) |
 <!---LeetCode Topics End-->
