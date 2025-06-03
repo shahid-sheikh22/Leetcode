@@ -30,6 +30,7 @@
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/shahid-sheikh22/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/shahid-sheikh22/Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/shahid-sheikh22/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/shahid-sheikh22/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2215-finding-3-digit-even-numbers](https://github.com/shahid-sheikh22/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shahid-sheikh22/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/shahid-sheikh22/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -129,6 +130,7 @@
 | ------- |
 | [0463-island-perimeter](https://github.com/shahid-sheikh22/Leetcode/tree/master/0463-island-perimeter) |
 | [0945-snakes-and-ladders](https://github.com/shahid-sheikh22/Leetcode/tree/master/0945-snakes-and-ladders) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/shahid-sheikh22/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/shahid-sheikh22/Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Matrix
 |  |
@@ -204,5 +206,6 @@
 ## Graph
 |  |
 | ------- |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/shahid-sheikh22/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/shahid-sheikh22/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 <!---LeetCode Topics End-->
