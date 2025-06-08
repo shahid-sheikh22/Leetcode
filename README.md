@@ -135,6 +135,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/shahid-sheikh22/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0463-island-perimeter](https://github.com/shahid-sheikh22/Leetcode/tree/master/0463-island-perimeter) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/shahid-sheikh22/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/shahid-sheikh22/Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -228,4 +229,8 @@
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/shahid-sheikh22/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/shahid-sheikh22/Leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
