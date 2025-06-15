@@ -88,6 +88,7 @@
 | [0135-candy](https://github.com/shahid-sheikh22/Leetcode/tree/master/0135-candy) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shahid-sheikh22/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/shahid-sheikh22/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/shahid-sheikh22/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shahid-sheikh22/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/shahid-sheikh22/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/shahid-sheikh22/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -116,6 +117,7 @@
 | [0062-unique-paths](https://github.com/shahid-sheikh22/Leetcode/tree/master/0062-unique-paths) |
 | [0781-basic-calculator-iv](https://github.com/shahid-sheikh22/Leetcode/tree/master/0781-basic-calculator-iv) |
 | [0828-chalkboard-xor-game](https://github.com/shahid-sheikh22/Leetcode/tree/master/0828-chalkboard-xor-game) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/shahid-sheikh22/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/shahid-sheikh22/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/shahid-sheikh22/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/shahid-sheikh22/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
