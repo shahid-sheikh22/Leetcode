@@ -39,6 +39,7 @@
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/shahid-sheikh22/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shahid-sheikh22/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/shahid-sheikh22/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/shahid-sheikh22/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/shahid-sheikh22/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/shahid-sheikh22/Leetcode/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/shahid-sheikh22/Leetcode/tree/master/3647-zero-array-transformation-iii) |
@@ -57,6 +58,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shahid-sheikh22/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/shahid-sheikh22/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [2215-finding-3-digit-even-numbers](https://github.com/shahid-sheikh22/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/shahid-sheikh22/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/shahid-sheikh22/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/shahid-sheikh22/Leetcode/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/shahid-sheikh22/Leetcode/tree/master/3647-zero-array-transformation-iii) |
@@ -96,6 +98,7 @@
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/shahid-sheikh22/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/shahid-sheikh22/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shahid-sheikh22/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/shahid-sheikh22/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/shahid-sheikh22/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/shahid-sheikh22/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/shahid-sheikh22/Leetcode/tree/master/3647-zero-array-transformation-iii) |
