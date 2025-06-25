@@ -33,6 +33,7 @@
 | [1381-maximum-score-words-formed-by-letters](https://github.com/shahid-sheikh22/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/shahid-sheikh22/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/shahid-sheikh22/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/shahid-sheikh22/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2215-finding-3-digit-even-numbers](https://github.com/shahid-sheikh22/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shahid-sheikh22/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/shahid-sheikh22/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -156,6 +157,7 @@
 |  |
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/shahid-sheikh22/Leetcode/tree/master/0354-russian-doll-envelopes) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/shahid-sheikh22/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/shahid-sheikh22/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## String Matching
 |  |
