@@ -32,6 +32,7 @@
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/shahid-sheikh22/Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/shahid-sheikh22/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/shahid-sheikh22/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shahid-sheikh22/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/shahid-sheikh22/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/shahid-sheikh22/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shahid-sheikh22/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shahid-sheikh22/Leetcode/tree/master/0075-sort-colors) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shahid-sheikh22/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/shahid-sheikh22/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/shahid-sheikh22/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Sorting
@@ -61,6 +63,7 @@
 | [0414-third-maximum-number](https://github.com/shahid-sheikh22/Leetcode/tree/master/0414-third-maximum-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shahid-sheikh22/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/shahid-sheikh22/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shahid-sheikh22/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shahid-sheikh22/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/shahid-sheikh22/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/shahid-sheikh22/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -164,6 +167,7 @@
 |  |
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/shahid-sheikh22/Leetcode/tree/master/0354-russian-doll-envelopes) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shahid-sheikh22/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/shahid-sheikh22/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/shahid-sheikh22/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## String Matching
