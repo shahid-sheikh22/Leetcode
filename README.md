@@ -24,6 +24,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shahid-sheikh22/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0463-island-perimeter](https://github.com/shahid-sheikh22/Leetcode/tree/master/0463-island-perimeter) |
 | [0500-keyboard-row](https://github.com/shahid-sheikh22/Leetcode/tree/master/0500-keyboard-row) |
+| [0594-longest-harmonious-subsequence](https://github.com/shahid-sheikh22/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0609-find-duplicate-file-in-system](https://github.com/shahid-sheikh22/Leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0828-chalkboard-xor-game](https://github.com/shahid-sheikh22/Leetcode/tree/master/0828-chalkboard-xor-game) |
 | [0945-snakes-and-ladders](https://github.com/shahid-sheikh22/Leetcode/tree/master/0945-snakes-and-ladders) |
@@ -62,6 +63,7 @@
 | [0354-russian-doll-envelopes](https://github.com/shahid-sheikh22/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0414-third-maximum-number](https://github.com/shahid-sheikh22/Leetcode/tree/master/0414-third-maximum-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shahid-sheikh22/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0594-longest-harmonious-subsequence](https://github.com/shahid-sheikh22/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/shahid-sheikh22/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shahid-sheikh22/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shahid-sheikh22/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -120,6 +122,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/shahid-sheikh22/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0500-keyboard-row](https://github.com/shahid-sheikh22/Leetcode/tree/master/0500-keyboard-row) |
+| [0594-longest-harmonious-subsequence](https://github.com/shahid-sheikh22/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0609-find-duplicate-file-in-system](https://github.com/shahid-sheikh22/Leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0781-basic-calculator-iv](https://github.com/shahid-sheikh22/Leetcode/tree/master/0781-basic-calculator-iv) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/shahid-sheikh22/Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
@@ -148,6 +151,7 @@
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/shahid-sheikh22/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/shahid-sheikh22/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shahid-sheikh22/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/shahid-sheikh22/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -282,5 +286,6 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/shahid-sheikh22/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/shahid-sheikh22/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 <!---LeetCode Topics End-->
