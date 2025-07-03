@@ -150,6 +150,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/shahid-sheikh22/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/shahid-sheikh22/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/shahid-sheikh22/Leetcode/tree/master/3321-type-of-triangle) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/shahid-sheikh22/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/shahid-sheikh22/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Counting
 |  |
@@ -210,6 +211,7 @@
 | [1022-unique-paths-iii](https://github.com/shahid-sheikh22/Leetcode/tree/master/1022-unique-paths-iii) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/shahid-sheikh22/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/shahid-sheikh22/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/shahid-sheikh22/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -265,6 +267,7 @@
 | [0394-decode-string](https://github.com/shahid-sheikh22/Leetcode/tree/master/0394-decode-string) |
 | [0781-basic-calculator-iv](https://github.com/shahid-sheikh22/Leetcode/tree/master/0781-basic-calculator-iv) |
 | [0930-all-possible-full-binary-trees](https://github.com/shahid-sheikh22/Leetcode/tree/master/0930-all-possible-full-binary-trees) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/shahid-sheikh22/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
 | ------- |
@@ -292,4 +295,8 @@
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/shahid-sheikh22/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/shahid-sheikh22/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+## Simulation
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/shahid-sheikh22/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
