@@ -34,6 +34,7 @@
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/shahid-sheikh22/Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/shahid-sheikh22/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/shahid-sheikh22/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/shahid-sheikh22/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/shahid-sheikh22/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shahid-sheikh22/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/shahid-sheikh22/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -67,6 +68,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shahid-sheikh22/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0594-longest-harmonious-subsequence](https://github.com/shahid-sheikh22/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/shahid-sheikh22/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/shahid-sheikh22/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shahid-sheikh22/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shahid-sheikh22/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/shahid-sheikh22/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -109,6 +111,7 @@
 | [0135-candy](https://github.com/shahid-sheikh22/Leetcode/tree/master/0135-candy) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shahid-sheikh22/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/shahid-sheikh22/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/shahid-sheikh22/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/shahid-sheikh22/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/shahid-sheikh22/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shahid-sheikh22/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -243,6 +246,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/shahid-sheikh22/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shahid-sheikh22/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/shahid-sheikh22/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/shahid-sheikh22/Leetcode/tree/master/3647-zero-array-transformation-iii) |
