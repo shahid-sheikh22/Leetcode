@@ -21,6 +21,7 @@
 | [0073-set-matrix-zeroes](https://github.com/shahid-sheikh22/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/shahid-sheikh22/Leetcode/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/shahid-sheikh22/Leetcode/tree/master/0135-candy) |
+| [0287-find-the-duplicate-number](https://github.com/shahid-sheikh22/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0354-russian-doll-envelopes](https://github.com/shahid-sheikh22/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0414-third-maximum-number](https://github.com/shahid-sheikh22/Leetcode/tree/master/0414-third-maximum-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shahid-sheikh22/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shahid-sheikh22/Leetcode/tree/master/0075-sort-colors) |
+| [0287-find-the-duplicate-number](https://github.com/shahid-sheikh22/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shahid-sheikh22/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/shahid-sheikh22/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/shahid-sheikh22/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -185,6 +187,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/shahid-sheikh22/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0354-russian-doll-envelopes](https://github.com/shahid-sheikh22/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shahid-sheikh22/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/shahid-sheikh22/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -219,6 +222,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/shahid-sheikh22/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0828-chalkboard-xor-game](https://github.com/shahid-sheikh22/Leetcode/tree/master/0828-chalkboard-xor-game) |
 | [1022-unique-paths-iii](https://github.com/shahid-sheikh22/Leetcode/tree/master/1022-unique-paths-iii) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/shahid-sheikh22/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
