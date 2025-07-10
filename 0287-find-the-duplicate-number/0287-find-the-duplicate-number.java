@@ -7,6 +7,6 @@ class Solution {
             }
             seen.add(num);
         }
-        return 0;
+        return 0 ;
     }
 }
