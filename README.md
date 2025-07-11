@@ -18,6 +18,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shahid-sheikh22/Leetcode/tree/master/0015-3sum) |
 | [0073-set-matrix-zeroes](https://github.com/shahid-sheikh22/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/shahid-sheikh22/Leetcode/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/shahid-sheikh22/Leetcode/tree/master/0135-candy) |
@@ -60,6 +61,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shahid-sheikh22/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/shahid-sheikh22/Leetcode/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/shahid-sheikh22/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shahid-sheikh22/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -68,6 +70,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shahid-sheikh22/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/shahid-sheikh22/Leetcode/tree/master/0075-sort-colors) |
 | [0354-russian-doll-envelopes](https://github.com/shahid-sheikh22/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0414-third-maximum-number](https://github.com/shahid-sheikh22/Leetcode/tree/master/0414-third-maximum-number) |
