@@ -38,6 +38,7 @@
 | [1022-unique-paths-iii](https://github.com/shahid-sheikh22/Leetcode/tree/master/1022-unique-paths-iii) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/shahid-sheikh22/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/shahid-sheikh22/Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/shahid-sheikh22/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/shahid-sheikh22/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/shahid-sheikh22/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/shahid-sheikh22/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -108,6 +109,7 @@
 | [0781-basic-calculator-iv](https://github.com/shahid-sheikh22/Leetcode/tree/master/0781-basic-calculator-iv) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/shahid-sheikh22/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1205-defanging-an-ip-address](https://github.com/shahid-sheikh22/Leetcode/tree/master/1205-defanging-an-ip-address) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/shahid-sheikh22/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/shahid-sheikh22/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1797-goal-parser-interpretation](https://github.com/shahid-sheikh22/Leetcode/tree/master/1797-goal-parser-interpretation) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/shahid-sheikh22/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -221,6 +223,7 @@
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/shahid-sheikh22/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0463-island-perimeter](https://github.com/shahid-sheikh22/Leetcode/tree/master/0463-island-perimeter) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/shahid-sheikh22/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/shahid-sheikh22/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/shahid-sheikh22/Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
@@ -329,6 +332,7 @@
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/shahid-sheikh22/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/shahid-sheikh22/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/shahid-sheikh22/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Sliding Window
 |  |
 | ------- |
