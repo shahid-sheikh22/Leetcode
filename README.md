@@ -45,6 +45,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/shahid-sheikh22/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shahid-sheikh22/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/shahid-sheikh22/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/shahid-sheikh22/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/shahid-sheikh22/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/shahid-sheikh22/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shahid-sheikh22/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -112,6 +113,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/shahid-sheikh22/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/shahid-sheikh22/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1797-goal-parser-interpretation](https://github.com/shahid-sheikh22/Leetcode/tree/master/1797-goal-parser-interpretation) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/shahid-sheikh22/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/shahid-sheikh22/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shahid-sheikh22/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/shahid-sheikh22/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -160,6 +162,7 @@
 | [0781-basic-calculator-iv](https://github.com/shahid-sheikh22/Leetcode/tree/master/0781-basic-calculator-iv) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/shahid-sheikh22/Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/shahid-sheikh22/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/shahid-sheikh22/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shahid-sheikh22/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/shahid-sheikh22/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shahid-sheikh22/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -333,6 +336,7 @@
 | [0386-lexicographical-numbers](https://github.com/shahid-sheikh22/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/shahid-sheikh22/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/shahid-sheikh22/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/shahid-sheikh22/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Sliding Window
 |  |
 | ------- |
@@ -344,4 +348,8 @@
 | ------- |
 | [2479-meeting-rooms-iii](https://github.com/shahid-sheikh22/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/shahid-sheikh22/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Hash Function
+|  |
+| ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/shahid-sheikh22/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 <!---LeetCode Topics End-->
