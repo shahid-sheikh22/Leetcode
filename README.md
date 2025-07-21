@@ -110,6 +110,7 @@
 | [0781-basic-calculator-iv](https://github.com/shahid-sheikh22/Leetcode/tree/master/0781-basic-calculator-iv) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/shahid-sheikh22/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1205-defanging-an-ip-address](https://github.com/shahid-sheikh22/Leetcode/tree/master/1205-defanging-an-ip-address) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/shahid-sheikh22/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/shahid-sheikh22/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/shahid-sheikh22/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1797-goal-parser-interpretation](https://github.com/shahid-sheikh22/Leetcode/tree/master/1797-goal-parser-interpretation) |
