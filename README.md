@@ -53,6 +53,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shahid-sheikh22/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/shahid-sheikh22/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/shahid-sheikh22/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/shahid-sheikh22/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2479-meeting-rooms-iii](https://github.com/shahid-sheikh22/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/shahid-sheikh22/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/shahid-sheikh22/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -228,6 +229,7 @@
 | [0386-lexicographical-numbers](https://github.com/shahid-sheikh22/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0463-island-perimeter](https://github.com/shahid-sheikh22/Leetcode/tree/master/0463-island-perimeter) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/shahid-sheikh22/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/shahid-sheikh22/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/shahid-sheikh22/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/shahid-sheikh22/Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
@@ -252,6 +254,7 @@
 | [0828-chalkboard-xor-game](https://github.com/shahid-sheikh22/Leetcode/tree/master/0828-chalkboard-xor-game) |
 | [1022-unique-paths-iii](https://github.com/shahid-sheikh22/Leetcode/tree/master/1022-unique-paths-iii) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/shahid-sheikh22/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/shahid-sheikh22/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/shahid-sheikh22/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/shahid-sheikh22/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Brainteaser
@@ -292,6 +295,7 @@
 |  |
 | ------- |
 | [0930-all-possible-full-binary-trees](https://github.com/shahid-sheikh22/Leetcode/tree/master/0930-all-possible-full-binary-trees) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/shahid-sheikh22/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/shahid-sheikh22/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/shahid-sheikh22/Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Combinatorics
