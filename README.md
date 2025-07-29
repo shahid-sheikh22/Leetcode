@@ -58,6 +58,7 @@
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/shahid-sheikh22/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2479-meeting-rooms-iii](https://github.com/shahid-sheikh22/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/shahid-sheikh22/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/shahid-sheikh22/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/shahid-sheikh22/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/shahid-sheikh22/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shahid-sheikh22/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -223,6 +224,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shahid-sheikh22/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/shahid-sheikh22/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/shahid-sheikh22/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/shahid-sheikh22/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/shahid-sheikh22/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## String Matching
 |  |
@@ -261,6 +263,7 @@
 | [1381-maximum-score-words-formed-by-letters](https://github.com/shahid-sheikh22/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/shahid-sheikh22/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/shahid-sheikh22/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/shahid-sheikh22/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/shahid-sheikh22/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/shahid-sheikh22/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Brainteaser
@@ -354,6 +357,7 @@
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/shahid-sheikh22/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/shahid-sheikh22/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/shahid-sheikh22/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/shahid-sheikh22/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Simulation
