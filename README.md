@@ -7,6 +7,7 @@
 | [0062-unique-paths](https://github.com/shahid-sheikh22/Leetcode/tree/master/0062-unique-paths) |
 | [0354-russian-doll-envelopes](https://github.com/shahid-sheikh22/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0930-all-possible-full-binary-trees](https://github.com/shahid-sheikh22/Leetcode/tree/master/0930-all-possible-full-binary-trees) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/shahid-sheikh22/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/shahid-sheikh22/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/shahid-sheikh22/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/shahid-sheikh22/Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -34,6 +35,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/shahid-sheikh22/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0609-find-duplicate-file-in-system](https://github.com/shahid-sheikh22/Leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0828-chalkboard-xor-game](https://github.com/shahid-sheikh22/Leetcode/tree/master/0828-chalkboard-xor-game) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/shahid-sheikh22/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/shahid-sheikh22/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1022-unique-paths-iii](https://github.com/shahid-sheikh22/Leetcode/tree/master/1022-unique-paths-iii) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/shahid-sheikh22/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -260,6 +262,7 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/shahid-sheikh22/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0828-chalkboard-xor-game](https://github.com/shahid-sheikh22/Leetcode/tree/master/0828-chalkboard-xor-game) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/shahid-sheikh22/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1022-unique-paths-iii](https://github.com/shahid-sheikh22/Leetcode/tree/master/1022-unique-paths-iii) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/shahid-sheikh22/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/shahid-sheikh22/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
