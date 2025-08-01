@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/shahid-sheikh22/Leetcode/tree/master/0062-unique-paths) |
+| [0118-pascals-triangle](https://github.com/shahid-sheikh22/Leetcode/tree/master/0118-pascals-triangle) |
 | [0354-russian-doll-envelopes](https://github.com/shahid-sheikh22/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0930-all-possible-full-binary-trees](https://github.com/shahid-sheikh22/Leetcode/tree/master/0930-all-possible-full-binary-trees) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/shahid-sheikh22/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -25,6 +26,7 @@
 | [0015-3sum](https://github.com/shahid-sheikh22/Leetcode/tree/master/0015-3sum) |
 | [0073-set-matrix-zeroes](https://github.com/shahid-sheikh22/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/shahid-sheikh22/Leetcode/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/shahid-sheikh22/Leetcode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/shahid-sheikh22/Leetcode/tree/master/0135-candy) |
 | [0287-find-the-duplicate-number](https://github.com/shahid-sheikh22/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0354-russian-doll-envelopes](https://github.com/shahid-sheikh22/Leetcode/tree/master/0354-russian-doll-envelopes) |
